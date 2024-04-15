@@ -1,6 +1,6 @@
 # emart_app
 
-A new Flutter project.
+A new Flutter project.demo emart app
 
 ## Getting Started
 
